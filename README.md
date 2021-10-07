@@ -1,2 +1,3 @@
-# phpstorm-wither-generator-plugin
-PhpStorm Plugin
+# Wither generator
+
+PhpStorm Plugin to generate wither
